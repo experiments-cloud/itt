@@ -30,7 +30,7 @@ Python
 os.environ['OPENAI_API_KEY'] = "sk-proj-tu_clave_real_aqui..."
 ```
 
-**2. Ejecutar el Script**
+**2. Ejecutar el script**
 
 Ejecuta el experimento desde tu terminal:
 
@@ -43,7 +43,7 @@ python icl_test.py
 El script realiza miles de llamadas a la API para asegurar la validez estadística del muestreo. Dependiendo de los límites de tu nivel de facturación en OpenAI (Requests Per Minute / Tokens Per Day), la ejecución completa tomará varios minutos.
 El script incluye una barra de progreso (tqdm) que mostrará el avance general y el tiempo estimado de finalización.
 
-## 📊 Resultados Esperados
+## 📊 Resultados 
 
 Al concluir, el script generará de forma automática:
 
