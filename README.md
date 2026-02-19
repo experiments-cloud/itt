@@ -56,7 +56,7 @@ Al concluir, el script generará de forma automática:
 ```Plaintext
 /
 ├── icl_test.py                    # Script principal
-├── LICENSE.txt                    # Licencia de uso
+├── LICENSE                        # Licencia de uso
 └── README.md                      # Documentación del repositorio
 ```
 
