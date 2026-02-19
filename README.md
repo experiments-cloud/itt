@@ -26,7 +26,7 @@ Antes de ejecutar el script, abre el archivo experimento2.py y reemplaza la cade
 Python
 
 ```python
-# ocl_test.py
+# icl_test.py
 os.environ['OPENAI_API_KEY'] = "sk-proj-tu_clave_real_aqui..."
 ```
 
